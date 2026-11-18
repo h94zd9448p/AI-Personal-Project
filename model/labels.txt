@@ -1,0 +1,6 @@
+0 pants
+1 shirt
+2 shoes
+3 shorts
+4 sneakers
+5 t-shirt
